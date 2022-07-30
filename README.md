@@ -1,1 +1,1 @@
-# BlackJack
+# BlackJack, my first Javascript project
